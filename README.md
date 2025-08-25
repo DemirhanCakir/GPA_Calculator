@@ -4,6 +4,9 @@ Bu proje, **Marmara Üniversitesi** öğrencilerinin kendi not sistemine
 göre **GPA (Ortalama)** hesaplamalarını sağlayan basit bir web
 uygulamasıdır.
 
+<img width="668" height="460" alt="Ekran Alıntısı" src="https://github.com/user-attachments/assets/024c2ba7-125a-4afc-805f-ed9aeb251aca" />
+
+
 ## Özellikler
 
 -   Önceden tamamlanan krediler ve ortalama girilebilir\
